@@ -1,14 +1,14 @@
-Dokument o NVIDIA w programie (Sphinx)
-
-Repozytorium zawiera katalog *source/* ,który generuje dokument o firmie NVIDIA.
-
-Struktura:
-- conf.py — konfiguracja projektu
-- index.rst — strona główna i spis treści
-- rozdzial1.rst, rozdzial2.rst, rozdzial3.rst — treść trzech rozdziałów
-- _static/ — ilustracja
-
-komendy 
-make html
-make latexpdf
-
+# Dokument o firmie NVIDIA
+utworzony za pomocą programu (sphinx)
+## Opis dokumentu
+W dokumencie zawarte sa najważniejsze informacje o firmie Nvidia. Dokument składa się z trzech rozdzałów w których jest ilustracja,tabela i lista.
+Z dokumentu dowiesz się o
+-Nistorii tej firmy ukazanej w przystępny sposób
+-Najważniejszych wydażeniach 
+-Zestawieniu sprzętu
+### Instalacja
+1. sklonuj repozytorium: git clone  git@github.com:matiikkgfyg/Zadanie-na-ocene.git
+### Przydatne komendy
+ls (pokazuje dostępne katalogi)
+cd (wejście do danego katalogu np cd source)
+mc (przelądanie plików)
