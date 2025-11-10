@@ -1,5 +1,5 @@
 # Dokument o firmie NVIDIA
-utworzony za pomocą programu (sphinx)
+Utworzony za pomocą programu (sphinx)
 ## Opis dokumentu
 W dokumencie zawarte sa najważniejsze informacje o firmie Nvidia. Dokument składa się z trzech rozdzałów w których jest ilustracja,tabela i lista.
 Z dokumentu dowiesz się o
