@@ -12,3 +12,4 @@ Z dokumentu dowiesz się o
 ls (pokazuje dostępne katalogi)
 cd (wejście do danego katalogu np cd source)
 mc (przelądanie plików)
+--##Dziękuje za przeczytanie##--
