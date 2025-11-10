@@ -18,3 +18,5 @@ mc (przelądanie plików)
 
 
 ##Dziękuje za przeczytanie##
+
+Autor: Mateusz Dziedzic
